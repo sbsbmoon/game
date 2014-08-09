@@ -14,7 +14,7 @@ public class Quad : MonoBehaviour {
 	private MeshFilter mMeshFt; 
 
 	public void SetTexture2D( Texture2D tex ){
-		mTex = tex;  
+		mTex = tex;
 	}
 
 
